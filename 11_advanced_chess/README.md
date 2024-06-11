@@ -1,4 +1,4 @@
-# advanced_chess
+# Advanced Chess
 Problem: https://quera.org/problemset/2636?tab=description
 
 
@@ -9,7 +9,8 @@ this is the order of input:
 
 output: the number of each chess piece that we should trade in, in order to make the correct set of each piece number
 
-eg: 
+
+e.g.: 
 
     input = 0 2 2 2 3 7
-    ouput = 1 -1 0 0 -1 1
+    output = 1 -1 0 0 -1 1
