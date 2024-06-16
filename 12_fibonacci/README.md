@@ -6,7 +6,7 @@ Fibonacci String: 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, ...
 input: the length of the output string between 1 and 100
  
 
-ouput: a string of -/+ indicating that if the corresponding integer is fibonacci or not
+output: a string of -/+ indicating that if the corresponding integer is fibonacci or not
 
 
 e.g.: 

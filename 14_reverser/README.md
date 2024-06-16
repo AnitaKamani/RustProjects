@@ -1,10 +1,10 @@
 # Reverser Machine
 Problem: https://quera.org/problemset/3405
 
-input: n lines of numbers until it recieves a zero
+input: n lines of numbers until it receives a zero
  
 
-ouput: the numbers in reversed order in n lines with no leading 0z
+output: the numbers in reversed order in n lines with no leading 0z
 
 
 e.g.: 

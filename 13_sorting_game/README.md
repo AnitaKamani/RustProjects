@@ -4,7 +4,7 @@ Problem: https://quera.org/problemset/52543
 input: the length of the input
  
 
-ouput: sorted input in the order of alternately one the bigest and another the lowest number
+output: sorted input in the order of alternately one the biggest and another the lowest number
 
 
 e.g.: 
