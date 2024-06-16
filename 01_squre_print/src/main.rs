@@ -2,7 +2,7 @@ use std::io;
 
 fn main() {
     let mut input_text = String::new();
-    io::stdin().read_line(&mut input_text);
+    let _ = io::stdin().read_line(&mut input_text).expect("wrong input");
 
     let trimmed = input_text.trim();
     let mut my_integer = trimmed.parse().unwrap();

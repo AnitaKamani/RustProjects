@@ -5,7 +5,7 @@ fn main() {
     let mut input_text = String::new();
     let _ = io::stdin().read_line(&mut input_text);
     let my_integer: usize = input_text.trim().parse().expect("Not a valid integer");
-    for i in 0..2 {
+    for _i in 0..2 {
         let mut input2 = String::new();
         let _ = io::stdin().read_line(&mut input2);
         let input_vec: Vec<char> = input2.trim().chars().collect();

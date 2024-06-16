@@ -14,7 +14,7 @@ fn main() {
     let input_2_vec: Vec<usize> = input_2
         .trim()
         .split(" ")
-        .map(|x| x.parse().expect("Not an intiger"))
+        .map(|x| x.parse().expect("Not an integer"))
         .collect();
 
     let ro_be_ro: usize = input_1_vec
